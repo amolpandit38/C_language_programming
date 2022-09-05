@@ -27,8 +27,4 @@ int main(int argc, char const *argv[])
     // %d is a format specifier
     return 0; // this shall be at the end of main function which indicates zero errors
 
-
-
-
-
 }
